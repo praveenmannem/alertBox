@@ -207,7 +207,6 @@
 				TargetAttributes = {
 					AC0886831E65E2FE00C1FC43 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = EN2K7BS8NT;
 						ProvisioningStyle = Automatic;
 					};
 					AC08869C1E65E30100C1FC43 = {
@@ -427,7 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = EN2K7BS8NT;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = alertBox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Praveen.alertBox;
@@ -439,7 +438,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = EN2K7BS8NT;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = alertBox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Praveen.alertBox;
@@ -516,6 +515,7 @@
 				AC0886B31E65E30100C1FC43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC0886B41E65E30100C1FC43 /* Build configuration list for PBXNativeTarget "alertBoxTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +524,7 @@
 				AC0886B61E65E30100C1FC43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC0886B71E65E30100C1FC43 /* Build configuration list for PBXNativeTarget "alertBoxUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +533,7 @@
 				AC0886B91E65E30100C1FC43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

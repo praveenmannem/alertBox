@@ -10,6 +10,13 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)warning:(UIButton *)sender;
+
+- (IBAction)youWon:(UIButton *)sender;
+
+- (IBAction)danger:(UIButton *)sender;
+
+- (IBAction)spin:(UIButton *)sender;
 
 @end
 
