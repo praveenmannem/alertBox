@@ -31,7 +31,7 @@
     UIAlertController *warning = [UIAlertController alertControllerWithTitle:@"warning" message:@"Virus" preferredStyle:UIAlertControllerStyleAlert];
     
     //Download
-    UIAlertAction *downloadAction = [UIAlertAction actionWithTitle:@"Download" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action) {
+    UIAlertAction *downloadAction = [UIAlertAction actionWithTitle:@"Download" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action){
         
         
         self.view.backgroundColor = [UIColor greenColor];
